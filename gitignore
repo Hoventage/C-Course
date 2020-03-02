@@ -1,0 +1,18 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+bin
+obj
+StyleCop.Cache
+_ReSharper.Caches
+_TeamCity.*
+*.user
+*.suo
+*.~*
+.*
+
+!.nuget
+!.gitignore
+!.editorconfig
+packages

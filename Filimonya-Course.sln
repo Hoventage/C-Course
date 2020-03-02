@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinOfThree", "MinOfThree\Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeralCount", "NumeralCount\NumeralCount.csproj", "{8DDC5E79-45FC-47A1-9EFF-E96566FE9EC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddAmount", "OddAmount\OddAmount.csproj", "{A9E517F7-52DE-4CD0-ADCE-EAFBD89BD990}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenAmount", "OddAmount\EvenAmount.csproj", "{A9E517F7-52DE-4CD0-ADCE-EAFBD89BD990}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginPassword", "LoginPassword\LoginPassword.csproj", "{68F043F6-0854-48F0-B5B3-93B113366D53}"
 EndProject

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OddAmount
+namespace EvenAmount
 {
     class EvenAmount
     {
@@ -15,20 +15,14 @@ namespace OddAmount
 
             int amount = 0;
 
-            if (num > 0 && num % 2 != 0)
-            {
-                amount += num;
-            }
-
             while (num != 0)
             {
-                //amount = amount;
-                Console.WriteLine("Введите произвольное число: ");
-                num = Convert.ToInt32(Console.ReadLine());
                 if (num > 0 && num % 2 != 0)
                 {
                     amount += num;
                 }
+                Console.WriteLine("Введите произвольное число: ");
+                num = Convert.ToInt32(Console.ReadLine());
             };
             Console.WriteLine($"The amount is {amount}");
         }
